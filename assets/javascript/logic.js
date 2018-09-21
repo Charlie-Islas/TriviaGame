@@ -125,7 +125,7 @@ var countryFlags=[
   {'country':'France', 'flag':'assets/images/france.png'},
   {'country':'Germany', 'flag':'assets/images/germany.png'},
   {'country':'Iceland', 'flag':'assets/images/iceland.png'},
-  {'country':'Italy', 'flag':'assets/images/italy.jpg'},
+  {'country':'Italy', 'flag':'assets/images/italy.png'},
   {'country':'Jordan', 'flag':'assets/images/jordan.png'},
   {'country':'Kenya', 'flag':'assets/images/kenya.png'},
   {'country':'Malaysia', 'flag':'assets/images/malaysia.png'},
