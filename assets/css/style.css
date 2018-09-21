@@ -1,0 +1,62 @@
+header div{
+  width:25%;
+  float:left;
+}
+header #title{
+ 
+  width:50%;
+}
+div{
+  text-align: center;
+}
+.choice {
+  background-color: #CCC;
+  float: left;
+  cursor: pointer;
+  width: 24.25%;
+  height: inherit;
+  vertical-align: middle;
+  padding: 50px 0;
+  margin:2% 0;
+  border-right:1px solid #fff;
+}
+footer{
+  clear:both;
+}
+#question {
+  font-size:20px;
+}
+#end {
+  font-weight:bold;
+  margin:3% 0;
+}
+.choice:hover {
+     background-color: #ddd;
+}
+.animate .red{
+     background-color: red;
+     -webkit-transition: background-color 500ms linear;
+     -moz-transition: background-color 500ms linear;
+     -o-transition: background-color 500ms linear;
+     -ms-transition: background-color 500ms linear;
+     transition: background-color 500ms linear;
+}
+
+.animate .green{
+     background-color: green;
+     -webkit-transition: background-color 500ms linear;
+     -moz-transition: background-color 500ms linear;
+     -o-transition: background-color 500ms linear;
+     -ms-transition: background-color 500ms linear;
+     transition: background-color 500ms linear;
+}
+
+h2{
+  text-align: center;
+}
+
+#flag{
+
+  width:520px;
+  height: 300px;
+}
